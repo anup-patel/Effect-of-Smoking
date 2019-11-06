@@ -1,7 +1,7 @@
 # Effect-of-Smoking
 Goal is to identify genes which respond differently to smoke in men vs. women (Smoking Status X Gender model vs. Smoking Status + Gender null model)
 
-#Assignment
+# Assignment
 Your goal is to identify genes which respond differently to smoke in men vs. women (Smoking Status X Gender model vs. Smoking Status + Gender null model)
 
 1. Use the 2-way ANOVA framework to generate p-values for each row of the data set
